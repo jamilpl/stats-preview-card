@@ -100,7 +100,7 @@ html {
 
 @media (min-width: 768px) {
   .main {
-    max-width: 900px;
+    max-width: 945px;
     height: 400px;
     display: flex;
     flex-direction: row-reverse;
