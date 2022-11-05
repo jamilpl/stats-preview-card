@@ -112,6 +112,10 @@ html {
     height: 100%;
     border-radius: 0 10px 10px 0;
   }
+
+  .main__img {
+    border-radius: 0 10px 10px 0;
+  }
   
   .main__article {
     width: 385px;
