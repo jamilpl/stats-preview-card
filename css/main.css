@@ -135,7 +135,6 @@ html {
 
   .main__list {
     display: flex;
-    text-align: center;
   }
 
   .main__item {
